@@ -1,0 +1,6 @@
+# Modelos pesados
+models/*.pkl
+models/*.joblib
+
+# Opcional: modelos entrenados
+models/heavy_models/
